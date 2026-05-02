@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Glassmorphism Colors - Futuristic Theme -->
+    <color name="purple_primary">#8B5CF6</color>
+    <color name="purple_secondary">#A78BFA</color>
+    <color name="purple_dark">#6D28D9</color>
+    <color name="cyan_accent">#22D3EE</color>
+    <color name="pink_accent">#EC4899</color>
+    
+    <!-- Background Colors -->
+    <color name="background_dark">#0F0F1A</color>
+    <color name="surface_dark">#1A1A2E</color>
+    <color name="surface_glass">#1E1E3F</color>
+    <color name="surface_glass_variant">#252547</color>
+    
+    <!-- Text Colors -->
+    <color name="text_primary">#FFFFFF</color>
+    <color name="text_secondary">#A1A1AA</color>
+    <color name="text_tertiary">#71717A</color>
+    
+    <!-- Status Colors -->
+    <color name="success">#10B981</color>
+    <color name="error">#EF4444</color>
+    <color name="warning">#F59E0B</color>
+    
+    <!-- Overlay -->
+    <color name="overlay_dark">#80000000</color>
+    <color name="overlay_light">#40FFFFFF</color>
+    
+    <!-- White/Black -->
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+</resources>
